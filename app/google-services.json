@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650581175212",
+    "project_id": "ui-design-wallpapers",
+    "storage_bucket": "ui-design-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650581175212:android:c2f792a10dca1c14816809",
+        "android_client_info": {
+          "package_name": "com.midjourney.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650581175212-4uq8fham0vjr5acu0gl47pei2pjn5ft0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCzvg7svS58L4WVIKWsepUosUkb_sDTHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650581175212-4uq8fham0vjr5acu0gl47pei2pjn5ft0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
